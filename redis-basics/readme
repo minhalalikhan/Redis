@@ -1,0 +1,6 @@
+basics redis backend app 
+
+made using node-expressjs
+
+#requires redis server on system
+# on windows , you need WSL to install and run redis-server
